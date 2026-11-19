@@ -1,0 +1,23 @@
+{
+  "name": "saucedemo-e2e-playwright",
+  "version": "1.0.0",
+  "description": "Projeto Prático de Qualidade de Software (Trilha 1) — Testes E2E funcionais no SauceDemo com Playwright.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaCarolinaSouzadosSantos/saucedemo-e2e-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AnaCarolinaSouzadosSantos/saucedemo-e2e-playwright/issues"
+  },
+  "homepage": "https://github.com/AnaCarolinaSouzadosSantos/saucedemo-e2e-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}
