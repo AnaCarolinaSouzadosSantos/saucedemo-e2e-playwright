@@ -8,7 +8,7 @@ Projeto de testes automatizados End-to-End (E2E) da aplicação [SauceDemo](http
 
 ## Instalação
 ```bash
-git clone https://github.com/AnaCarolinaSouzadosSantos/saucedemo-e2e-playwright.git (https://github.com/AnaCarolinaSouzadosSantos/saucedemo-e2e-playwright.git)
+git clone https://github.com/AnaCarolinaSouzadosSantos/saucedemo-e2e-playwright.git 
 cd saucedemo-e2e-playwright
 npm install
 npx playwright install
